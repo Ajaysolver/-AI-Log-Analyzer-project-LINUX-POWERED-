@@ -1,3 +1,4 @@
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/ai-log-analyzer)
 # 🤖 AI-Powered Log Analyzer
 
 An intelligent server monitoring system that uses Google Gemini AI to analyze logs, detect anomalies, and send proactive alerts.
