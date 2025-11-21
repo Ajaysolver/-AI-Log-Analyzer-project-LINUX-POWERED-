@@ -1,0 +1,19 @@
+# Sensitive files
+config.sh
+alert_fallback.log
+*.key
+*.token
+
+# Logs
+logs/*
+!logs/.gitkeep
+backups/*
+cache/*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
