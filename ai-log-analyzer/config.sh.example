@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# --- Paths ---
+LOG_FILE="/var/log/messages"
+SCRIPT_LOG="logs/analyzer.log"
+
+# --- Thresholds ---
+THRESHOLD=10
+CRITICAL_THRESHOLD=50
+WARNING_THRESHOLD=5
+
+# --- Alerting ---
+ALERT_EMAIL="your.email@example.com"
+
+# --- AI Configuration ---
+AI_ENABLED=true
+MODEL="gemini-pro"
+# GEMINI_API_KEY is set as environment variable
+
+# --- Performance ---
+MAX_LOG_SIZE=1000000
+RETENTION_DAYS=30
