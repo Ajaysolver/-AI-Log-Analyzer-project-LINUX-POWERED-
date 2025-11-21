@@ -1,0 +1,6 @@
+INFO: System boot completed successfully
+ERROR: Disk full on /dev/sda1 - 95% capacity
+WARNING: High memory usage - 85% utilized
+CRITICAL: Database connection timeout
+FAIL: SSH authentication failed for user admin
+INFO: Backup completed successfully
